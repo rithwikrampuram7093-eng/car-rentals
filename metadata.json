@@ -1,0 +1,6 @@
+{
+  "name": "Car Rental Booking System",
+  "description": "A beginner-friendly and elegant Car Rental Booking System where customers can select a car, dates, locations, trip type, and manage bookings interactively.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
